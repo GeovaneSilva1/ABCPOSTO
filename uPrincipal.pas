@@ -87,7 +87,7 @@ var
 begin
   if cbBomba.ItemIndex = 0 then
      begin
-       MessageDlg('Bomba não identificada!', mtInformation, [mbOK], 0);
+       MessageDlg('Bomba não Identificada. Selecione uma bomba.', mtInformation, [mbOK], 0);
        cbBomba.SetFocus;
        Exit;
      end

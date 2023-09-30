@@ -25,8 +25,6 @@ object Form3: TForm3
     Align = alClient
     BevelOuter = bvNone
     TabOrder = 0
-    ExplicitWidth = 363
-    ExplicitHeight = 432
     object Label1: TLabel
       Left = 0
       Top = 0
@@ -79,7 +77,6 @@ object Form3: TForm3
       Align = alTop
       BevelOuter = bvNone
       TabOrder = 0
-      ExplicitWidth = 363
       object Label8: TLabel
         Left = 153
         Top = 93
@@ -187,7 +184,6 @@ object Form3: TForm3
       Align = alTop
       BevelOuter = bvNone
       TabOrder = 1
-      ExplicitWidth = 363
       object Label11: TLabel
         Left = 15
         Top = 6

@@ -6,8 +6,8 @@ object dmControl: TdmControl
     Params.Strings = (
       'LockingMode=Normal'
       
-        'Database=C:\Users\qualvisual18\Desktop\Teste Fortes\bancosqlite\' +
-        'postoabc.db'
+        'Database=C:\Users\qualvisual18\Documents\Portfolio\Postoabc\banc' +
+        'osqlite\postoabc.db'
       'DriverID=SQLite')
     Connected = True
     LoginPrompt = False
