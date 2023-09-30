@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/16 11:45:27.000.556,=C:\Users\qualvisual18\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/09/16 12:46:39.000.963,=C:\Users\qualvisual18\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/09/16 12:47:07.000.025,C:\Users\qualvisual18\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\qualvisual18\Desktop\Teste Fortes\uPrincipal.dfm</Transaction>
+    <Transaction>2023/09/16 12:47:07.000.025,C:\Users\qualvisual18\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\qualvisual18\Desktop\Teste Fortes\uPrincipal.pas</Transaction>
+    <Transaction>2023/09/16 12:47:22.000.160,C:\Users\qualvisual18\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\qualvisual18\Desktop\Teste Fortes\TesteFortes.dproj</Transaction>
+    <Transaction>2023/09/16 12:48:22.000.812,=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2023/09/16 12:53:35.000.479,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas=C:\Users\qualvisual18\Desktop\Teste Fortes\dmControl.pas</Transaction>
+    <Transaction>2023/09/16 12:53:35.000.479,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.dfm=C:\Users\qualvisual18\Desktop\Teste Fortes\dmControl.dfm</Transaction>
+    <Transaction>2023/09/16 17:53:41.000.007,C:\Users\qualvisual18\Desktop\Teste Fortes\dmControl.pas=</Transaction>
+    <Transaction>2023/09/16 17:54:20.000.372,=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2023/09/16 18:05:16.000.203,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.dfm=C:\Users\qualvisual18\Desktop\Teste Fortes\umoduloCon.dfm</Transaction>
+    <Transaction>2023/09/16 18:05:16.000.203,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas=C:\Users\qualvisual18\Desktop\Teste Fortes\umoduloCon.pas</Transaction>
+    <Transaction>2023/09/16 18:05:30.000.356,C:\Users\qualvisual18\Desktop\Teste Fortes\umoduloCon.dfm=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.dfm</Transaction>
+    <Transaction>2023/09/16 18:05:30.000.356,C:\Users\qualvisual18\Desktop\Teste Fortes\umoduloCon.pas=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2023/09/16 18:05:57.000.815,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas=C:\Users\qualvisual18\Desktop\Teste Fortes\umoduloCon.pas</Transaction>
+    <Transaction>2023/09/16 18:05:57.000.815,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.dfm=C:\Users\qualvisual18\Desktop\Teste Fortes\umoduloCon.dfm</Transaction>
+    <Transaction>2023/09/17 15:24:05.000.319,=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 15:25:01.000.928,C:\Users\qualvisual18\Desktop\Teste Fortes\uGeraRelAbastecimentos.pas=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 15:25:01.000.928,C:\Users\qualvisual18\Desktop\Teste Fortes\uGeraRelAbastecimentos.dfm=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.dfm</Transaction>
+    <Transaction>2023/09/17 15:44:48.000.812,=C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 15:45:37.000.527,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.dfm=C:\Users\qualvisual18\Desktop\Teste Fortes\uExibeRelAbastecimentos.dfm</Transaction>
+    <Transaction>2023/09/17 15:45:37.000.527,C:\Users\qualvisual18\Desktop\Teste Fortes\Unit1.pas=C:\Users\qualvisual18\Desktop\Teste Fortes\uExibeRelAbastecimentos.pas</Transaction>
+  </Transactions>
+</BorlandProject>

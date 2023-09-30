@@ -1,0 +1,30 @@
+-- Criação da tabela Tanques
+CREATE TABLE tTanques (
+    bdCodTanque       INTEGER         PRIMARY KEY
+                                      NOT NULL,
+    bdTipoCombustivel VARCHAR (40),
+    bdQtdLitros       NUMERIC (15, 2) 
+);
+
+
+-- Criação da tabela Bombas
+CREATE TABLE tBombas (
+    bdCodBomba           INTEGER PRIMARY KEY
+                                 NOT NULL,
+    tTanques_bdCodTanque INTEGER REFERENCES tTanques (bdCodTanque) ON DELETE CASCADE
+                                                                   ON UPDATE CASCADE
+                                 NOT NULL
+);
+
+-- Criação da tabela Abastecimentos
+CREATE TABLE tAbastecimentos (
+    bdCodAbastecimento INTEGER         NOT NULL
+                                       PRIMARY KEY,
+    bdData             DATE,
+    tBombas_bdCodBomba INTEGER         REFERENCES tBombas (bdCodBomba) ON DELETE CASCADE
+                                                                       ON UPDATE CASCADE
+                                       NOT NULL,
+    bdQtdLitros        NUMERIC (15, 2),
+    bdValorAbastecido  NUMERIC (15, 2),
+    bdImposto          NUMERIC (15, 2) 
+);
